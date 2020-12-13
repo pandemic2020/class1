@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<h1>ABOUT ME</h1>
+<hr>
+
+<p>My name is Hassan Nazeeh. I'm 18years old and I live in Sh.narudhoo. Right now I'm studyimg html basics from Adam Sir.  </p>
+
+<h2>EDUCAYTION</h2>
+<hr>
+<ul>
+    <li>O'level</li>
+</ul>
+
+<h2>EXPERIENCE</h2>
+<hr>
+<ul>
+    <li>cashier</li>
+    <li>health awareness programme</li>
+</ul>
+<h3>HOBBY</h3>
+<p>Exercising is my hobby. It helps me to become a more active person</p>
